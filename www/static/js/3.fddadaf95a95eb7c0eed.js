@@ -1,0 +1,2 @@
+webpackJsonp([3],{KNij:function(t,s,i){"use strict";Object.defineProperty(s,"__esModule",{value:!0});var e={render:function(){var t=this.$createElement,s=this._self._c||t;return s("div",[s("h1",[this._v("this is 电影详情")]),this._v(" "),s("v-back"),s("v-search"),this._v(" "),s("p",[this._v("动态路由用params接受")]),this._v(" "),s("p",{staticClass:"p1"},[this._v(this._s(this.$route.params.id))])],1)},staticRenderFns:[]};var a=i("VU/8")({},e,!1,function(t){i("VTxi")},"data-v-5687c0ae",null);s.default=a.exports},VTxi:function(t,s){}});
+//# sourceMappingURL=3.fddadaf95a95eb7c0eed.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([6],{R7Pr:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var o={data:function(){return{}},methods:{},watch:{},mounted:function(){console.log("order进来了")},beforeDestroy:function(){console.log("order销毁了")}},r={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var c=t("VU/8")(o,r,!1,function(e){t("ipgb")},null,null);n.default=c.exports},ipgb:function(e,n){}});
+//# sourceMappingURL=6.a031edfad3c3a4ece24c.js.map

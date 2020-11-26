@@ -1,0 +1,2 @@
+webpackJsonp([4],{Y6rs:function(t,s){},by9R:function(t,s,e){"use strict";Object.defineProperty(s,"__esModule",{value:!0});var i={render:function(){var t=this.$createElement,s=this._self._c||t;return s("div",[s("h1",[this._v("this is 外卖详情")]),this._v(" "),s("v-back"),s("v-search"),this._v(" "),s("p",[this._v("问号传参用query接收")]),this._v(" "),s("p",{staticClass:"p1"},[this._v(this._s(this.$route.query.id))])],1)},staticRenderFns:[]};var r=e("VU/8")({},i,!1,function(t){e("Y6rs")},"data-v-3b40442f",null);s.default=r.exports}});
+//# sourceMappingURL=4.c4c5d29052f8d15bdc4b.js.map
